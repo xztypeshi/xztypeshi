@@ -5,7 +5,7 @@
 
 ---
 
-# Hey there, Xinjie! 👋
+# Hey there, I am Xinjie. 
 
 I'm a **DAM (Desarrollo de Aplicaciones Multiplataforma)** student passionate about building real-world software. I enjoy learning new tools, following good programming practices, and turning ideas into functional applications — whether it's a web API, a mobile app, or a database-driven system.
 
