@@ -60,10 +60,7 @@ I'm a **DAM (Multiplatform Application Development)** student passionate about b
 ## 📬 Contact
 
 <p align="left">
-  <a href="https://github.com/XinjieZheng" target="_blank">
+  <a href="https://github.com/xztypeshi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
