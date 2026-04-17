@@ -7,18 +7,7 @@
 
 # Hey there, I am Xinjie. 
 
-I'm a **DAM (Desarrollo de Aplicaciones Multiplataforma)** student passionate about building real-world software. I enjoy learning new tools, following good programming practices, and turning ideas into functional applications — whether it's a web API, a mobile app, or a database-driven system.
-
-> 💡 *Motivated by clean code, good architecture, and continuous learning.*
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Currently studying **CFGS DAM** (Desarrollo de Aplicaciones Multiplataforma)
-- 🌱 Always learning — from full-stack web to Android development
-- 🔧 I care about writing clean, maintainable code and understanding the *why* behind every tool
-- 📍 Based in Catalonia, Spain
+I'm a **DAM (Multiplatform Application Development)** student passionate about building real-world software. I enjoy learning new tools, following good programming practices, and turning ideas into functional applications — whether it's a web API, a mobile app, a database-driven system, or even exploring areas beyond my curriculum.
 
 ---
 
@@ -58,12 +47,12 @@ I'm a **DAM (Desarrollo de Aplicaciones Multiplataforma)** student passionate ab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XinjieZheng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinjieZheng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xztypeshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xztypeshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XinjieZheng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=xztypeshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
